@@ -26,4 +26,3 @@ npm run build
 ```
 
 Copy content of the folder `dist` to your server
-
