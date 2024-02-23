@@ -1,0 +1,6 @@
+{
+    "name": "Scan My Asset",
+    "short_name": "Scan My Asset",
+    "start_url": "index.html",
+    "display": "fullscreen"
+}
