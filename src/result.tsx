@@ -43,7 +43,7 @@ function JsonToTable(data: any): string {
 }
 
 export function BindResult(text: string) {
-    const parts = text.split("/");
+    const parts = text.indexOf("=") >= 0 ? text.split("=") : text.split("/");
     const asset = parts[parts.length - 1];
     RenderView(
         <div class="row">
