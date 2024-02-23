@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@types/bootstrap": "^5.2.10",
+    "html5-qrcode": "^2.3.8",
     "sass": "^1.71.1",
     "typescript": "^5.2.2",
     "vite": "^5.1.4"
